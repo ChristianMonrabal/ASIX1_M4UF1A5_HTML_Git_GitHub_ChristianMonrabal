@@ -1,0 +1,19 @@
+#header {
+    height: 100vh;
+    background-image: url(../img/header.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 30px;
+}
+
+.cuerpo {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
